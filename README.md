@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kurscode
+- 👀 I’m use HTML and CSS
+- 🌱 I’m currently learning CSS
+- 🏫 I am a begginer
